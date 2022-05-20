@@ -15,4 +15,6 @@ Here are some of the features of the game:-
 
 4)Snake die whenever it hits on the wall or eat itself.
 
-5)If snake die "Game over! Press any key to play again!" this messege pop on screen.
+5)Score are increase when snake eat the food.
+
+6)If snake die "Game over! Press any key to play again!" this messege pop on screen.
